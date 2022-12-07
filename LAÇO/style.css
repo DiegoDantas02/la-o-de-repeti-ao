@@ -1,0 +1,17 @@
+html{
+    background-color: burlywood;
+}
+.corpo{
+    display:flex;
+    border: 1px solid whitesmoke;
+    padding: 0px;
+    margin: 150px;
+}
+.btn{
+    border-color: grey;
+    background-color:aquamarine;
+}
+#resposta{
+    border: 1px solid black;
+    position: center;
+}
